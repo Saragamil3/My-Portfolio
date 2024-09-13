@@ -8,3 +8,8 @@
  ## Excel 
   - [Commerce Analysis](https://github.com/Saragamil3/Commerce-analysis)
     
+ ## Power BI 
+   - [Bike Store Sales Analysis](https://github.com/Saragamil3/Bike-Store-Sales-Analysis)
+   - [Hotel Marketing Campaigns](https://github.com/Saragamil3/Hotel-Marketing-Campaigns)
+   - [Hotel Channels and revenue](https://github.com/Saragamil3/Hotel_Channels_and_revenue)
+     
