@@ -7,6 +7,7 @@
  # List of Projects 
  ## Excel 
   - [Commerce Analysis](https://github.com/Saragamil3/Commerce-analysis)
+  - [HR Analysis](https://github.com/Saragamil3/HR-Analysis)
   - [Hotel Channels and revenue](https://github.com/Saragamil3/Hotel_Channels_and_revenue)
     
  ## Power BI 
