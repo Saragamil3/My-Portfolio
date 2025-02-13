@@ -14,5 +14,7 @@
    - [Bike Store Sales Analysis](https://github.com/Saragamil3/Bike-Store-Sales-Analysis)
    - [Hotel Marketing Campaigns](https://github.com/Saragamil3/Hotel-Marketing-Campaigns)
    - [Supply Chain](https://github.com/Saragamil3/Supply-Chain)
+## SQL
+   - [Northwind-Database-Sales-Analysis](https://github.com/Saragamil3/Northwind-database-Sales-Analysis)
 
      
