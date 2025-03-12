@@ -16,5 +16,7 @@
    - [Supply Chain](https://github.com/Saragamil3/Supply-Chain)
 ## SQL
    - [Northwind-Database-Sales-Analysis](https://github.com/Saragamil3/Northwind-database-Sales-Analysis)
+## Python 
+   - [Telecom_Customer_Churn](https://github.com/Saragamil3/Telecom_Customer_Churn)
 
      
