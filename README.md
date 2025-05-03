@@ -15,7 +15,7 @@
    - [Hotel Marketing Campaigns](https://github.com/Saragamil3/Hotel-Marketing-Campaigns)
    - [Supply Chain](https://github.com/Saragamil3/Supply-Chain)
 ## SQL
-   - [Northwind-Database-Sales-Analysis(SQL SERVER)](https://github.com/Saragamil3/Library_Performance_Analysis)
+   - Library_Performance-Analysis(SQL SERVER)](https://github.com/Saragamil3/Library_Performance_Analysis)
    - [Northwind-Database-Sales-Analysis(SQLITE)](https://github.com/Saragamil3/Northwind-database-Sales-Analysis) 
 ## Python 
    - [Telecom_Customer_Churn](https://github.com/Saragamil3/Telecom_Customer_Churn)
