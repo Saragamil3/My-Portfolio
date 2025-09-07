@@ -6,7 +6,7 @@
 
  # List of Projects 
  ## Excel 
-  - [Supply Chain Analysis](https://github.com/Saragamil3/Commerce-analysis)
+  - [Online Shopping Trends](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-)
   - [HR Analysis](https://github.com/Saragamil3/HR-Analysis)
   - [Hotel Channels and revenue](https://github.com/Saragamil3/Hotel_Channels_and_revenue)
     
