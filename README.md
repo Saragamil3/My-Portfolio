@@ -13,9 +13,9 @@
  ## Power BI 
    - [Customer Churn Analysis](https://github.com/Saragamil3/Customer-Churn-Analysis/tree/main)
    - [Bike Store Sales Analysis](https://github.com/Saragamil3/Bike-Store-Sales-Analysis)
+   - [E-commerce](https://github.com/Saragamil3/E-commerce)
    - [Supply Chain](https://github.com/Saragamil3/Supply-Chain)
-   - [Hotel Marketing Campaigns](https://github.com/Saragamil3/Hotel-Marketing-Campaigns)
-   
+  
 ## SQL
    - [Northwind-Database-Sales-Analysis(SQLITE)](https://github.com/Saragamil3/Northwind-database-Sales-Analysis) 
    - [Library_Performance-Analysis(SQL SERVER)](https://github.com/Saragamil3/Library_Performance_Analysis)
