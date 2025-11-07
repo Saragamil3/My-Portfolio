@@ -6,7 +6,7 @@
 
  # List of Projects 
 
- ## [RealEstate data_analysis end-to-end project( Create Database - DWH - ETL(SSIS)- SQL - Tableau)](https://github.com/Saragamil3/RealEstate-data-analysis-/tree/main/RealEstate)
+ ## [RealEstate data_analysis end-to-end project( Create Database - DWH - ETL(SSIS)- SQL - Tableau)](https://github.com/Saragamil3/RealEstate-data-analysis-/tree/main)
 
  ## Excel 
   - [Online Shopping Trends](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-)
